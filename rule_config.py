@@ -1,7 +1,7 @@
 import random
-test_num=25
+test_num=25 #测试点数量设置
 
-def Generate(outfile):
+def Generate(outfile): #测试点生成规则，outfile是一个文件，把数据可以通过write的方式写入文件
     n=100000
     outfile.write(str(n)+"\n")
     s=""
