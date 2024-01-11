@@ -5,6 +5,6 @@
 
 然后执行
 
-‘’python3 -u ans_make.py''
+``python3 -u ans_make.py``
 
 生成测试数据为.in/.out
